@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+A web-based portfolio platform with HTML, CSS, JS, EJS, Node.js, and MySQL.Implemented CRUD operations for easy portfolio management, enabling students to create, update, and delete items.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
